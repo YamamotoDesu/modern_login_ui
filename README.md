@@ -1,16 +1,4 @@
-# modern_login_ui
+## [modern_login_ui 1](https://www.youtube.com/watch?v=Dh-cTQJgM-Q&t=9s)
 
-A new Flutter project.
+<img width="300" alt="スクリーンショット 2023-05-14 13 34 48" src="https://github.com/YamamotoDesu/modern_login_ui/assets/47273077/4f9a10c5-1c71-4538-9474-e06ff92d3985">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
