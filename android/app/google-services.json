@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1065960907092",
+    "project_id": "docscanner-8cda5",
+    "storage_bucket": "docscanner-8cda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065960907092:android:3109fd1dca23354c0a28c1",
+        "android_client_info": {
+          "package_name": "code.with.kyo.riverpod_instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065960907092-u1r41rqv9d67nrtqhp2dqu4qgkfaddip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7X40oI6y4_gSFv2BIwseoXvrCXnx-LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065960907092-kafi8t5q30iq9j0dmq3equm9eujktldj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065960907092-14pucaosq0abl160q9jl9rcd2g48sn4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kyoyamamoto.scanner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065960907092:android:19797e423e035dbd0a28c1",
+        "android_client_info": {
+          "package_name": "com.example.modern_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065960907092-u1r41rqv9d67nrtqhp2dqu4qgkfaddip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7X40oI6y4_gSFv2BIwseoXvrCXnx-LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065960907092-kafi8t5q30iq9j0dmq3equm9eujktldj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065960907092-14pucaosq0abl160q9jl9rcd2g48sn4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kyoyamamoto.scanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
